@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/Basic_Sensor_Loggings.X.production.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>32768</length>                 
+      <used>6052</used>                     
+      <free>26716</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>2048</length>                 
+      <used>40</used>                     
+      <free>2008</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
